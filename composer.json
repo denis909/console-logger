@@ -1,0 +1,12 @@
+{
+    "name": "denis909/console-logger",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Denis909\\ConsoleLogger\\": ""
+        }
+    },
+    "require": {
+        "psr/log": "^1.1"
+    }
+}
