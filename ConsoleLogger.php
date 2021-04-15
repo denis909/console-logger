@@ -2,9 +2,9 @@
 /**
  * @author denis909 <dev@denis909.spb.ru>
  * @license MIT
- * @link http://denis909.spb.ru
+ * @link https://denis909.spb.ru
  */
-namespace Denis909\ConsoleLogger;
+namespace denis909\yii;
 
 use Psr\Log\AbstractLogger;
 use Psr\Log\LogLevel;
