@@ -1,1 +1,1 @@
-# console-logger
+# yii2-console-logger
